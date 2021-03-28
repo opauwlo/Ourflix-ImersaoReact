@@ -16,7 +16,7 @@
 <h4 align="left">site versão desktop</h4>
 
 <p align="center">
-<img width="300px" src="/assets_readme/screen_capture_mobile1.png" align="center" alt="foto site versão mobile" />
+<img width="300px" src="/assets_readme/screen_capture_mobile2.png" align="center" alt="foto site versão mobile" />
 <h4 align="left">site versão mobile</h4>
 ---
 
