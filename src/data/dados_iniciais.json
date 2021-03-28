@@ -1,0 +1,181 @@
+{
+  "categorias": [
+    {
+      "titulo": "Ponto em Comum",
+      "link": "https://www.youtube.com/c/PontoemComumcomMigueleosHugobertos/videos",
+      "cor": "#0e62e5",
+      "link_extra": {
+        "text": "Mais Vídeos",
+        "url": "https://www.youtube.com/c/PontoemComumcomMigueleosHugobertos/featured"
+      },
+      "videos": [
+        {
+          "titulo": "VIDA EXTRATERRESTRE será a PIOR notícia da história",
+          "url": "https://youtu.be/LF4H8KXeQJ4"
+        },
+        {
+          "titulo": "como CONTAR até 1000 com 2 MÃOS",
+          "url": "https://youtu.be/is-3Xre_bYY"
+        },
+        {
+          "titulo": "qual o CHEIRO do ESPAÇO?",
+          "url": "https://youtu.be/EHJmrf_3e2Q"
+        },
+        {
+          "titulo": "temos LIVRE-ARBÍTRIO? (talvez NÃO)",
+          "url": "https://youtu.be/goUyERyyD1k"
+        },
+        {
+          "titulo": "O fim acidental do MAIS VELHO organismo do mundo",
+          "url": "https://youtu.be/fcNO61CVTzg"
+        },
+        {
+          "titulo": "O que é REAL?",
+          "url": "https://youtu.be/rsUDwv14ETg"
+        },
+        {
+          "titulo": "CACHORROS NÃO EXISTEM",
+          "url": "https://youtu.be/MPOF218tbGw"
+        },
+        {
+          "titulo": "por que PARAMOS de ir à LUA?",
+          "url": "https://youtu.be/5hUkQJe57uQ"
+        }        
+      ]
+    },
+    {
+      "titulo": "Nerdologia História",
+      "cor": "#dcaa44",
+      "link_extra": {
+        "text": "Playlist História",
+        "url": "https://www.youtube.com/watch?v=OK_Znhu-gGw&list=PLyRcl7Q37-DXmpJEy_fj-HnWtvHuu_Ihi"
+      },
+      "videos": [
+        {
+          "titulo": "O que é o fascismo? | Nerdologia",
+          "url": "https://youtu.be/OK_Znhu-gGw"
+        },
+        {
+          "titulo": "Hitler realmente morreu em 1945? | Nerdologia",
+          "url": "https://youtu.be/Sybj4fKjW58"
+        },
+        {
+          "titulo": "Antigamente é que era bom! | Nerdologia",
+          "url": "https://youtu.be/YZ3ZYcCaEi0"
+        },
+        {
+          "titulo": "A Peste Negra | Nerdologia",
+          "url": "https://youtu.be/Q87c4UBXTpY"
+        }, 
+        {
+          "titulo": "A vida de Isaac Asimov e a robótica | Nerdologia",
+          "url": "https://youtu.be/kFVB0mmzrvs"
+        }
+      ]
+    },
+    {
+      "titulo": "Nerdologia Ciência",
+      "cor": "#a9b6b2",
+      "link_extra": {
+        "text": "Mais Vídeos",
+        "url": "https://www.youtube.com/c/nerdologia/videos"
+      },
+      "videos": [
+        {
+          "titulo": "Numerologia e coincidências | Nerdologia",
+          "url": "https://youtu.be/fvr2wKQFCz4"
+        },
+        {
+          "titulo": "Uma questão de fé | Nerdologia",
+          "url": "https://youtu.be/r7h7lMJhpLI"
+        },
+        {
+          "titulo": "Temos livre-arbítrio? Quem toma nossas decisões? | Nerdologia",
+          "url": "https://youtu.be/z-ATdBKNErM"
+        },
+        {
+          "titulo": "O que somos nós? | Nerdologia",
+          "url": "https://youtu.be/-HCHKLky7U8"
+        }
+      ]
+    },
+    {
+      "titulo": "YEAH SCIENCE",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Mais Ciência",
+        "url": "https://www.youtube.com/c/ScienceVlogsBrasil/channels"
+      },
+      "videos": [
+        {
+          "titulo": "Do que a luz é feita?",
+          "url": "https://youtu.be/7K04QZQ1jsU"
+        },
+        {
+          "titulo": "O Efeito Doppler Explicado",
+          "url": "https://youtu.be/78WkQObqp3U"
+        },
+        {
+          "titulo": "Buracos Negros Explicados",
+          "url": "https://youtu.be/GbJJRsS6OR4"
+        },
+        {
+          "titulo": "Porque o espelho inverte a imagem horizontalmente (e não verticalmente)",
+          "url": "https://youtu.be/LVefOZkakGs"
+        }
+      ]
+    },
+    {
+      "titulo": "4fun",
+      "cor": "#0a8f81",
+      "link_extra": {
+        "text": "O que tu quiser",
+        "url": "https://www.youtube.com"
+      },
+      "videos": [
+        {
+          "titulo": "PASSANDO MAL DE TANTO COMER - Ep. 1475",
+          "url": "https://youtu.be/LQ7DlnSSHrI"
+        },
+        {
+          "titulo": "Sequências Horríveis",
+          "url": "https://youtu.be/g0ueF0HYNi4"
+        },
+        {
+          "titulo": "Gaveta GORDO vs MAGRO | Gaveta Show",
+          "url": "https://youtu.be/SnSmFPhoMzU"
+        },
+        {
+          "titulo": "O Verdadeiro Vilão da MITOLOGIA GREGA",
+          "url": "https://youtu.be/8ZwSLona-bI"
+        },
+        {
+          "titulo": "vídeos que DECEPCIONAM!",
+          "url": "https://youtu.be/FWhiw_iOnc4"
+        }
+      ]
+    },
+    {
+      "titulo": "Flows",
+      "cor": "#c79738",
+      "link_extra": {
+        "text": "Todos os Flows",
+        "url": "https://www.youtube.com/c/FlowPodcast/videos"
+      },
+      "videos": [
+        {
+          "titulo": "ROGÉRIO SKYLAB - Flow Podcast #92",
+          "url": "https://youtu.be/BvNXJLRh6ow"
+        },
+        {
+          "titulo": "VITOR METAFORANDO - Flow Podcast #154",
+          "url": "https://youtu.be/tHbFukPmM9s"
+        },
+        {
+          "titulo": "PEDRO LOOS (CIÊNCIA TODO DIA) - Flow Podcast #55",
+          "url": "https://youtu.be/2YXEtKboQas"
+        }
+      ]
+    }
+  ]
+}
